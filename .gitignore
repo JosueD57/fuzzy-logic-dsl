@@ -1,0 +1,31 @@
+# SBT build directories
+/target/
+/project/target/
+/project/project/
+
+# IntelliJ IDEA files
+/.idea/
+/*.iml
+
+# MacOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# Scala and Java compiled files
+*.class
+*.jar
+
+# Generated files
+gen/
+
+# Coverage reports
+coverage/
+
+# System files
+Thumbs.db
